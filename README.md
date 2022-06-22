@@ -5,5 +5,6 @@ Right now, I only have one project available which was my last project from the 
 
 - 🔭 I’m currently working on building programs to automatically sell cards (NTF's)
 - 🌱 I’m currently learning data science in Python and SQL
+- 📚 I’m currently reading Naked Statistcs and The Pragmatic programmer
 - 📫 How to reach me: henrique.lima.un@gmail.com
 
