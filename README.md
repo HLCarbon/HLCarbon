@@ -7,4 +7,5 @@ Right now, I only have one project available which was my last project from the 
 - 🌱 I’m currently learning data science in Python and SQL
 - 📚 I’m currently reading Naked Statistcs and The Pragmatic programmer
 - 📫 How to reach me: henrique.lima.un@gmail.com
+- :blue_book: Next projects: NLP, SQL, Deep learning
 
