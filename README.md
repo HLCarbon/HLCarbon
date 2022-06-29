@@ -7,4 +7,4 @@ Right now, I only have 5 projects ranging from arbitrage with NFT's to predictin
 - 📫 How to reach me: henrique.lima.un@gmail.com
 - :blue_book: Next projects: SQL, Deep learning
 
-![](https://komarev.com/ghpvc/?username=HLCarbon&color=blue&style=plastic)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=HLCarbon&color=blue&style=plastic)
