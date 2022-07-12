@@ -5,6 +5,6 @@ Right now, I only have 8 projects ranging from arbitrage with NFT's to predictin
 
 - 🌱 I’m currently learning data science in Python and SQL
 - 📫 How to reach me: henrique.lima.un@gmail.com
-- :blue_book: Next projects: SQL, Deep learning
+- :blue_book: Next projects: Deep learning
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=HLCarbon&color=blue&style=plastic)
