@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-My name is Henrique Lima and I've been learning data science in python and SQL since the start of the year.
+My name is Henrique Lima and I've been learning data science in python and SQL since the start of this year.
 Right now, I only have 8 projects ranging from arbitrage with NFT's to predicting house rental prices and NLP. However, more will come!
 
 - 🌱 I’m currently learning data science in Python and SQL
